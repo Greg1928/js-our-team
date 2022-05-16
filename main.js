@@ -39,7 +39,7 @@ for(let i = 0; i<team.length; i++){
             />
         </div>
         <div class="card-text">
-            <h3>W${team[i].name}</h3>
+            <h3>${team[i].name}</h3>
             <p>${team[i].role}</p>
         </div>
         </div>
